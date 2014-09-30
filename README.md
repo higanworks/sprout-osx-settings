@@ -103,3 +103,17 @@ bundle exec rake rubocop
 bundle
 bundle exec rake foodcritic
 ```
+
+
+-----
+
+Note for higanlocal
+
+
+```
+mkdir setup
+cd setup/
+git clone https://github.com/higanworks/sprout-osx-settings.git
+cd sprout-osx-settings/
+./setup.sh
+```
